@@ -1,0 +1,32 @@
+# Secrets and credentials
+.env
+*.key
+*.pem
+*.pfx
+*.p12
+credentials.txt
+passwords.txt
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Virtual machines
+*.vdi
+*.vmdk
+*.vbox-prev
+*.ova
+
+# Temporary files
+*.tmp
+*.temp
